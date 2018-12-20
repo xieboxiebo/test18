@@ -1,0 +1,3 @@
+print("nihao")
+prnit("fuc")
+
